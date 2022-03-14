@@ -1,0 +1,9 @@
+l'eccezione è un comportamento non regolare del programma
+errori diverso da eccezioni
+errore è in fase di compilazioni
+eccezioni li risolvi con IF (e catch)
+
+puoi avere diversi tipi di Ecc,ogni gestione viene gestita dal catch
+il try non può esistere senza un catch
+
+
